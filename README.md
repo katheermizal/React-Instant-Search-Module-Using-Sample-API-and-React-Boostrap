@@ -8,7 +8,7 @@ Should Have a knowledge in <br />
 1. React Boostrap
 2. Axios
 
-<br />
+## : Preview
 ![](screen-capture.gif)
 
 ## How To Start
