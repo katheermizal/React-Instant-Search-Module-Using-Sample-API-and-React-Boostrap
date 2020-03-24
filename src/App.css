@@ -1,0 +1,64 @@
+.container {
+	margin: 36px auto;
+}
+
+* {
+    outline: 0 !important;
+}
+
+
+/*Loader*/
+.search-loading {
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+
+/*Show and hide*/
+.show {
+	display: inline-block;
+}
+
+.hide {
+	display: none;
+}
+
+.search-loading.hide {
+	display: none;
+}
+
+.search-loading.show {
+	display: inline-block;
+}
+
+/*Prev and next*/
+
+.nav-link-container {
+	margin: 20px 0;
+	display: flex;
+	justify-content: flex-end;
+}
+
+.pagination .page-link {
+    padding: .5rem .75rem 0.6rem;
+    width: 50px;
+    border-width: 3px;
+    border-color: #000;
+    color: #000;
+    text-align: center;
+}
+
+
+/* Table */
+table caption {
+    padding: 1.2rem .75rem;
+    caption-side: top;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: #000;
+    font-size: 1.2em;
+    letter-spacing: 1px;
+    text-align: center;
+}
