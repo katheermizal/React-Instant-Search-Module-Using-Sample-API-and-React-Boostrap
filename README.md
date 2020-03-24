@@ -5,8 +5,9 @@ Create Live Search Using Sample API with Custom Pagination<br />
 Should Have a knowledge in <br />
 1. ES6
 2. React
-1. React Boostrap
-2. Axios
+3. Boostrap
+4. react-boostrap
+5. react-axios
 
 ## Preview
 ![](screen-capture.gif)
