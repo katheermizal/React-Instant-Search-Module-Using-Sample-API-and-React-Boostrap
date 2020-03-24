@@ -24,6 +24,6 @@ Live Search in react application
 
 ## Useful Links
 1. [Reference Link](https://codeytek.com/live-search-search-react-live-search-in-react-axios-autocomplete-pagination/)
-2. [Pixabay API](https://pixabay.com/api/docs/#api_search_images)
+2. [Sample API](https://pixabay.com/api/docs/#api_search_images)
 
 
